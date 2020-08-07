@@ -1,3 +1,3 @@
 # js-pro-course
-Xenia Anichkina
+Xenia Anichkina /
 no additional info yet
