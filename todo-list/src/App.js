@@ -9,8 +9,7 @@ function App() {
         setCurrentTodo("");
     };
     const createNewTodo = (currentTodo) => {
-        let todosArray = [...todos];
-        todosArray.push({todo: currentTodo});
+        let todosArray = [...todos, {todo: currentTodo}];
         setTodos(todosArray);
     }
     const toggleClass = (event) => {
