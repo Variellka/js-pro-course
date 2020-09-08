@@ -1,0 +1,21 @@
+.todoBlock {
+    display: flex;
+    justify-content: space-between;
+    padding: 5px;
+}
+.todo {
+    font-weight: 500;
+}
+.todo ul {
+    list-style: circle;
+}
+.todo ul li {
+    padding-top: 10px;
+}
+.button {
+    margin: 10px;
+}
+.checked {
+    text-decoration: line-through;
+    color: forestgreen;
+}
