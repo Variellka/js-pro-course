@@ -1,0 +1,26 @@
+.entireTodo {
+    font-size: 15px;
+    width: 450px;
+    padding: 20px;
+}
+.borderTodo {
+    border: 1px solid darkgray;
+    padding: 10px;
+    background-image: url("abstract.jpg");
+}
+.inputBlock {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 30px;
+}
+.inputBlock input{
+    width: 220px;
+    margin-left: 15px;
+}
+
+.filter {
+    display: flex;
+    justify-content: space-evenly;
+    margin-bottom: 10px;
+}
+
